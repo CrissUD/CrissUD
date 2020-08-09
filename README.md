@@ -2,7 +2,7 @@
 
 <img alt="Banner | CrissUD" src="https://i.imgur.com/94PNhoZ.gif" />
 
-![Github Stats for CrissUD](https://github-readme-stats.vercel.app/api?username=CrissUD&show_icons=true&hide_border=true&title_color=ffb300&icon_color=6CA0FF&bg_color=ffffff)
+![Github Stats for CrissUD](https://github-readme-stats.vercel.app/api?username=CrissUD&show_icons=true&hide_border=true&title_color=6CA0FF&icon_color=6CA0FF&bg_color=ffffff)
 
 <!--
 **CrissUD/CrissUD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
