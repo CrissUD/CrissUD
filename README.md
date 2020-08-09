@@ -3,15 +3,15 @@
 ![Github Stats for CrissUD](https://github-readme-stats.vercel.app/api?username=CrissUD&show_icons=true&hide_border=true&title_color=6CA0FF&icon_color=6CA0FF&bg_color=ffffff)
 
 # Connect with me:
-[<img align="left" alt="CrissUD | GMail" width="22px" src="https://i.imgur.com/YQSSJe5.png" />][gmail]
+[<img align="left" alt="CrissUD | GMail" width="35px" src="https://i.imgur.com/YQSSJe5.png" />][gmail]
 
-[<img align="left" alt="CrissUD | Facebook" width="22px" src="https://i.imgur.com/8cIERD9.png" />][facebook]
+[<img align="left" alt="CrissUD | Facebook" width="35px" src="https://i.imgur.com/8cIERD9.png" />][facebook]
 
-[<img align="left" alt="CrissUD | Youtube" width="22px" src="https://i.imgur.com/8tSdeCe.png" />][youtube]
+[<img align="left" alt="CrissUD | Youtube" width="35px" src="https://i.imgur.com/8tSdeCe.png" />][youtube]
 
-[<img align="left" alt="CrissUD | Instagram" width="22px" src="https://i.imgur.com/nl4qNj5.png" />][instagram]
+[<img align="left" alt="CrissUD | Instagram" width="35px" src="https://i.imgur.com/nl4qNj5.png" />][instagram]
 
-[gmail]: cfpatinoc@correo.udistrital.edu.co
+[gmail]: mailto:cfpatinoc@correo.udistrital.edu.co?Subject=Contacto
 [facebook]: https://www.facebook.com/cristian.kema
 [youtube]: https://www.youtube.com/user/themetallica096
 [instagram]: https://www.instagram.com/cristiankema/
