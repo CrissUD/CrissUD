@@ -2,6 +2,8 @@
 
 ![Github Stats for CrissUD](https://github-readme-stats.vercel.app/api?username=CrissUD&show_icons=true&hide_border=true&title_color=6CA0FF&icon_color=6CA0FF&bg_color=ffffff)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrissUD)](https://github.com/anuraghazra/github-readme-stats)
+
 # Connect with me:
 [<img align="left" alt="CrissUD | GMail" width="35px" src="https://i.imgur.com/YQSSJe5.png" />][gmail]
 
